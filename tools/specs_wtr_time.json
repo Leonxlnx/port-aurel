@@ -1,0 +1,15 @@
+[
+ {"out":"wtr_t_warm.jpg","shot":3,"time":1.5,"w":640,"h":360,"spp":2},
+ {"out":"wtr_tm_03a.jpg","shot":3,"time":1.5,"w":3840,"h":2160,"spp":40},
+ {"out":"wtr_tm_06a.jpg","shot":6,"time":1,"w":3840,"h":2160,"spp":40},
+ {"out":"wtr_tm_16a.jpg","shot":16,"time":2,"w":3840,"h":2160,"spp":40},
+ {"out":"wtr_tm_02a.jpg","shot":2,"time":2,"w":3840,"h":2160,"spp":40},
+ {"out":"wtr_tm_03b.jpg","shot":3,"time":1.5,"w":3840,"h":2160,"spp":40},
+ {"out":"wtr_tm_06b.jpg","shot":6,"time":1,"w":3840,"h":2160,"spp":40},
+ {"out":"wtr_tm_16b.jpg","shot":16,"time":2,"w":3840,"h":2160,"spp":40},
+ {"out":"wtr_tm_02b.jpg","shot":2,"time":2,"w":3840,"h":2160,"spp":40},
+ {"out":"wtr_tm_03c.jpg","shot":3,"time":1.5,"w":3840,"h":2160,"spp":40},
+ {"out":"wtr_tm_06c.jpg","shot":6,"time":1,"w":3840,"h":2160,"spp":40},
+ {"out":"wtr_tm_16c.jpg","shot":16,"time":2,"w":3840,"h":2160,"spp":40},
+ {"out":"wtr_tm_02c.jpg","shot":2,"time":2,"w":3840,"h":2160,"spp":40}
+]

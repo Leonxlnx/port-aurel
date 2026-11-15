@@ -1,0 +1,11 @@
+[
+ {"out":"hbr_41_barge.jpg","elev":9,"cam":{"pos":[174,2.0,151],"target":[194,1.4,142.4],"fov":45}},
+ {"out":"hbr_42_cruiser.jpg","elev":9,"cam":{"pos":[538.5,2.0,122.5],"target":[530,1.0,113.7],"fov":45}},
+ {"out":"hbr_43_fisher.jpg","elev":9,"cam":{"pos":[-164,1.6,398],"target":[-152.3,1.3,388.5],"fov":45}},
+ {"out":"hbr_44_dayboat.jpg","elev":9,"cam":{"pos":[323,1.7,148],"target":[315.5,0.8,141.5],"fov":45}},
+ {"out":"hbr_45_sloop.jpg","elev":9,"cam":{"pos":[-179,2.0,-196],"target":[-186,1.4,-205.2],"fov":50}},
+ {"out":"hbr_46_clutter.jpg","elev":9,"cam":{"pos":[-144.6,3.5,380],"target":[-149,2.5,392],"fov":45}},
+ {"out":"hbr_47_hut.jpg","elev":6,"cam":{"pos":[-304,3.9,604],"target":[-316,3.6,598.5],"fov":45}},
+ {"out":"hbr_48_bike.jpg","elev":9,"cam":{"pos":[-82.5,3.5,137.2],"target":[-78,3.1,139.6],"fov":45}},
+ {"out":"hbr_49_rowboats.jpg","elev":9,"cam":{"pos":[-25,1.6,146.5],"target":[-27.5,0.4,141],"fov":50}}
+]

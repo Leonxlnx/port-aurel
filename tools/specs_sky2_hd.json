@@ -1,0 +1,4 @@
+[
+ {"out":"sky2_hd_dusk.jpg","t":90,"spp":14,"cam":{"pos":[-400,10,300],"target":[600,200,100],"fov":40},"elev":-3.4,"sky":{"coverage":0.62,"east":0.5}},
+ {"out":"sky2_hd_sunset.jpg","t":52,"spp":14,"cam":{"pos":[-160,6,150],"target":[-1200,110,150],"fov":40},"elev":1.1,"sky":{"coverage":0.55}}
+]

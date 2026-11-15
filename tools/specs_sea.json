@@ -1,0 +1,6 @@
+[
+ {"out":"sea_f_nw.jpg","cam":{"pos":[-150,15,-300],"target":[-6000,300,-4500],"fov":30},"elev":2.5},
+ {"out":"sea_f_sw.jpg","cam":{"pos":[-150,20,400],"target":[-3000,120,2500],"fov":24},"elev":0.5},
+ {"out":"sea_f_skyblue.jpg","cam":{"pos":[-700,12,500],"target":[500,70,100],"fov":32},"elev":-6},
+ {"out":"sea_f_tele1080.jpg","w":1920,"h":1080,"spp":8,"cam":{"pos":[-140,5,153],"target":[-1180,24,153],"fov":5.5},"elev":1.6,"t":12}
+]

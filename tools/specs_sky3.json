@@ -1,0 +1,8 @@
+[
+ {"out":"sk3_w_e1.jpg","cam":{"pos":[-160,6,150],"target":[-1200,60,150],"fov":45},"elev":1.5},
+ {"out":"sk3_w_em2.jpg","cam":{"pos":[-160,6,150],"target":[-1200,60,150],"fov":45},"elev":-2},
+ {"out":"sk3_w_em5.jpg","cam":{"pos":[-160,6,150],"target":[-1200,60,150],"fov":45},"elev":-5},
+ {"out":"sk3_e_em3.jpg","cam":{"pos":[-400,10,300],"target":[600,160,100],"fov":45},"elev":-3,"night":0.6},
+ {"out":"sk3_e_em6.jpg","cam":{"pos":[-400,10,300],"target":[600,160,100],"fov":45},"elev":-6,"night":1},
+ {"out":"sk3_tele_e06.jpg","cam":{"pos":[-140,5,170],"target":[-1180,20.5,153],"fov":6},"elev":0.6,"t":38,"set":{"fogDensity":0.00005,"dust":0.001}}
+]

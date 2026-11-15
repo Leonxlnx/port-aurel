@@ -1,0 +1,286 @@
+{
+ "duration": 60,
+ "lufs": -14,
+ "cues": [
+  {
+   "id": "music",
+   "file": "music/pixabay_rockot_eona-emotional-ambient-pop.mp3",
+   "in": 33.2,
+   "at": 0,
+   "dur": 60,
+   "fadeIn": 0.012,
+   "fadeOut": 1.05,
+   "level": -15
+  },
+  {
+   "id": "shutter-open",
+   "file": "sfx/camera_vintage_shutter_mixkit-1438.wav",
+   "at": 0,
+   "dur": 1.2,
+   "peak": -7
+  },
+  {
+   "id": "water-bed",
+   "file": "sfx/water_small_waves_harbor_rocks_mixkit-1208.wav",
+   "in": 6,
+   "at": 0,
+   "dur": 60,
+   "level": -37,
+   "fadeIn": 0.2,
+   "fadeOut": 0.4
+  },
+  {
+   "id": "tram-interior",
+   "file": "sfx/tram_old_interior_ride_freesound-734198.mp3",
+   "in": "loudest",
+   "at": 0,
+   "dur": 3.98,
+   "level": -22,
+   "fadeIn": 0.05,
+   "fadeOut": 0.18
+  },
+  {
+   "id": "gulls-bay",
+   "file": "sfx/seagulls_quiet_seaside_distant_freesound-546565.mp3",
+   "in": "loudest",
+   "at": 3.85,
+   "dur": 5.2,
+   "level": -31,
+   "fadeIn": 0.15,
+   "fadeOut": 1.8
+  },
+  {
+   "id": "water-quay",
+   "file": "sfx/water_gentle_lap_at_boats_freesound-637945.mp3",
+   "in": 20,
+   "at": 6.75,
+   "dur": 3,
+   "level": -29,
+   "fadeIn": 0.2,
+   "fadeOut": 0.4
+  },
+  {
+   "id": "tram-depart",
+   "file": "sfx/tram_slow_passing_mixkit-3019.wav",
+   "alignPeakTo": 13.6,
+   "pre": 1.2,
+   "post": 1.1,
+   "level": -25,
+   "fadeIn": 0.25,
+   "fadeOut": 0.5
+  },
+  {
+   "id": "gulls-glitter",
+   "file": "sfx/seagulls_quiet_seaside_distant_freesound-546565.mp3",
+   "in": 150,
+   "at": 14.6,
+   "dur": 3,
+   "level": -30,
+   "fadeIn": 0.15,
+   "fadeOut": 0.6
+  },
+  {
+   "id": "tram-far",
+   "file": "sfx/tram_slow_passing_mixkit-3019.wav",
+   "alignPeakTo": 21.3,
+   "pre": 1.8,
+   "post": 2,
+   "level": -31,
+   "lp": 2600,
+   "fadeIn": 0.5,
+   "fadeOut": 1
+  },
+  {
+   "id": "water-close",
+   "file": "sfx/water_gentle_lap_at_boats_freesound-637945.mp3",
+   "in": "loudest",
+   "at": 19.5,
+   "dur": 7.9,
+   "level": -30,
+   "fadeIn": 0.3,
+   "fadeOut": 0.6
+  },
+  {
+   "id": "gulls-sun",
+   "file": "sfx/seagulls_quiet_seaside_distant_freesound-546565.mp3",
+   "in": "loudest",
+   "at": 27.2,
+   "dur": 4.2,
+   "level": -31,
+   "fadeIn": 0.3,
+   "fadeOut": 1.2
+  },
+  {
+   "id": "horn-far",
+   "file": "sfx/ship_horn_distant_freesound-541608.mp3",
+   "alignPeakTo": 28.9,
+   "pre": 0.6,
+   "post": 3,
+   "level": -31,
+   "fadeIn": 0.2,
+   "fadeOut": 1.5
+  },
+  {
+   "id": "wind-dusk",
+   "file": "sfx/wind_blowing_ambience_mixkit-2658.wav",
+   "in": 8,
+   "at": 34.6,
+   "dur": 8.6,
+   "level": -37,
+   "fadeIn": 1.5,
+   "fadeOut": 1
+  },
+  {
+   "id": "click-1",
+   "file": "sfx/switch_light_switch_mixkit-2579.wav",
+   "at": 40.44,
+   "dur": 0.2,
+   "peak": -15
+  },
+  {
+   "id": "click-2",
+   "file": "sfx/switch_light_switch_mixkit-2579.wav",
+   "at": 40.93,
+   "dur": 0.2,
+   "peak": -14
+  },
+  {
+   "id": "click-3",
+   "file": "sfx/switch_light_switch_mixkit-2579.wav",
+   "at": 41.43,
+   "dur": 0.2,
+   "peak": -13
+  },
+  {
+   "id": "click-4",
+   "file": "sfx/switch_light_switch_mixkit-2579.wav",
+   "at": 41.92,
+   "dur": 0.2,
+   "peak": -12
+  },
+  {
+   "id": "neon-hum",
+   "file": "sfx/neon_lamp_switch_on_hum_freesound-351430.mp3",
+   "in": 0,
+   "at": 40.4,
+   "dur": 2.5,
+   "level": -31,
+   "fadeIn": 0.05,
+   "fadeOut": 0.25
+  },
+  {
+   "id": "riser",
+   "file": "sfx/riser_cinematic_suspense_swell_mixkit-786.wav",
+   "alignPeakTo": 42.82,
+   "pre": 3.6,
+   "post": 0.25,
+   "level": -24,
+   "fadeIn": 1.2,
+   "fadeOut": 0.2
+  },
+  {
+   "id": "impact",
+   "file": "sfx/boom_cinematic_whoosh_deep_impact_mixkit-1143.mp3",
+   "alignPeakTo": 42.93,
+   "pre": 0.7,
+   "post": 3.2,
+   "peak": -9,
+   "fadeIn": 0.1,
+   "fadeOut": 1.5
+  },
+  {
+   "id": "tube-flicker",
+   "file": "sfx/fluorescent_tube_startup_flicker_freesound-131156.mp3",
+   "in": "loudest",
+   "at": 42.98,
+   "dur": 1.6,
+   "fadeIn": 0.02,
+   "fadeOut": 0.4,
+   "peak": -16
+  },
+  {
+   "id": "breaker-2",
+   "file": "sfx/switch_electric_switch_mixkit-1808.wav",
+   "alignPeakTo": 43.4,
+   "pre": 0.05,
+   "post": 0.3,
+   "peak": -13
+  },
+  {
+   "id": "breaker-3",
+   "file": "sfx/switch_electric_switch_mixkit-1808.wav",
+   "alignPeakTo": 43.89,
+   "pre": 0.05,
+   "post": 0.3,
+   "peak": -12
+  },
+  {
+   "id": "breaker-4",
+   "file": "sfx/switch_electric_switch_mixkit-1808.wav",
+   "alignPeakTo": 44.375,
+   "pre": 0.05,
+   "post": 0.3,
+   "peak": -11
+  },
+  {
+   "id": "crown-hit",
+   "file": "sfx/boom_drum_deep_impact_mixkit-563.wav",
+   "alignPeakTo": 44.86,
+   "pre": 0.3,
+   "post": 2.2,
+   "peak": -12,
+   "fadeIn": 0.05,
+   "fadeOut": 1.2
+  },
+  {
+   "id": "city-night",
+   "file": "sfx/city_urban_ambience_night_mixkit-2678.wav",
+   "in": 12,
+   "at": 43,
+   "dur": 17,
+   "level": -35,
+   "fadeIn": 1,
+   "fadeOut": 0.6
+  },
+  {
+   "id": "tram-night",
+   "file": "sfx/tram_slow_passing_mixkit-3019.wav",
+   "alignPeakTo": 50.2,
+   "pre": 1.1,
+   "post": 1.3,
+   "level": -25,
+   "fadeIn": 0.25,
+   "fadeOut": 0.6
+  },
+  {
+   "id": "neon-buzz",
+   "file": "sfx/neon_light_buzz_freesound-118340.mp3",
+   "in": 2,
+   "at": 51.7,
+   "dur": 2.8,
+   "level": -33,
+   "fadeIn": 0.1,
+   "fadeOut": 0.3
+  },
+  {
+   "id": "foghorn-end",
+   "file": "sfx/ship_foghorn_long_distant_freesound-507471.mp3",
+   "in": 0.2,
+   "at": 57.3,
+   "dur": 2.7,
+   "level": -30,
+   "fadeIn": 0.3,
+   "fadeOut": 1.4
+  },
+  {
+   "id": "water-end",
+   "file": "sfx/water_small_waves_harbor_rocks_mixkit-1208.wav",
+   "in": 30,
+   "at": 57.6,
+   "dur": 2.4,
+   "level": -27,
+   "fadeIn": 1,
+   "fadeOut": 0.35
+  }
+ ]
+}

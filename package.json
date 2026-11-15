@@ -1,0 +1,16 @@
+{
+  "name": "fablewow",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A procedural film-look harbor city in three.js",
+  "scripts": {
+    "start": "node tools/server.mjs",
+    "shot": "node tools/shot.mjs",
+    "render": "node tools/render.mjs"
+  },
+  "dependencies": {
+    "puppeteer-core": "^25.17.0",
+    "three": "^0.187.0"
+  }
+}

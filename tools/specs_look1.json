@@ -1,0 +1,6 @@
+[
+ {"out":"lk_street_e10.jpg","cam":{"pos":[351.5,4.05,-45],"target":[346,10,-400],"fov":40},"elev":10,"sky":{"cumulus":0.15}},
+ {"out":"lk_henge_e3.jpg","cam":{"pos":[560,4.05,-22],"target":[-200,8,-22],"fov":45},"elev":3,"sky":{"cumulus":0.15}},
+ {"out":"lk_viaduct_e12.jpg","cam":{"pos":[36.3,3.9,-52],"target":[37.6,7.6,-200],"fov":42},"elev":12,"t":83,"sky":{"cumulus":0.15}},
+ {"out":"lk_skyline_e8.jpg","cam":{"pos":[-700,6,500],"target":[500,60,100],"fov":32},"elev":8,"sky":{"cumulus":0.15}}
+]

@@ -1,0 +1,222 @@
+[
+ {
+  "out": "i3_01_tram-inside_2.jpg",
+  "shot": 1,
+  "time": 0.078
+ },
+ {
+  "out": "i3_01_tram-inside_98.jpg",
+  "shot": 1,
+  "time": 3.822
+ },
+ {
+  "out": "i3_02_skyline_2.jpg",
+  "shot": 2,
+  "time": 0.078
+ },
+ {
+  "out": "i3_02_skyline_98.jpg",
+  "shot": 2,
+  "time": 3.822
+ },
+ {
+  "out": "i3_03_quay_2.jpg",
+  "shot": 3,
+  "time": 0.058
+ },
+ {
+  "out": "i3_03_quay_98.jpg",
+  "shot": 3,
+  "time": 2.842
+ },
+ {
+  "out": "i3_04_tower-up_2.jpg",
+  "shot": 4,
+  "time": 0.059
+ },
+ {
+  "out": "i3_04_tower-up_98.jpg",
+  "shot": 4,
+  "time": 2.875
+ },
+ {
+  "out": "i3_05_station_2.jpg",
+  "shot": 5,
+  "time": 0.039
+ },
+ {
+  "out": "i3_05_station_98.jpg",
+  "shot": 5,
+  "time": 1.927
+ },
+ {
+  "out": "i3_06_jetty_2.jpg",
+  "shot": 6,
+  "time": 0.039
+ },
+ {
+  "out": "i3_06_jetty_98.jpg",
+  "shot": 6,
+  "time": 1.895
+ },
+ {
+  "out": "i3_07_rooftops_2.jpg",
+  "shot": 7,
+  "time": 0.039
+ },
+ {
+  "out": "i3_07_rooftops_98.jpg",
+  "shot": 7,
+  "time": 1.927
+ },
+ {
+  "out": "i3_08_henge_2.jpg",
+  "shot": 8,
+  "time": 0.078
+ },
+ {
+  "out": "i3_08_henge_98.jpg",
+  "shot": 8,
+  "time": 3.822
+ },
+ {
+  "out": "i3_09_promenade_2.jpg",
+  "shot": 9,
+  "time": 0.039
+ },
+ {
+  "out": "i3_09_promenade_98.jpg",
+  "shot": 9,
+  "time": 1.895
+ },
+ {
+  "out": "i3_10_arch_2.jpg",
+  "shot": 10,
+  "time": 0.039
+ },
+ {
+  "out": "i3_10_arch_98.jpg",
+  "shot": 10,
+  "time": 1.927
+ },
+ {
+  "out": "i3_11_sun_2.jpg",
+  "shot": 11,
+  "time": 0.078
+ },
+ {
+  "out": "i3_11_sun_98.jpg",
+  "shot": 11,
+  "time": 3.822
+ },
+ {
+  "out": "i3_12_crown-dusk_2.jpg",
+  "shot": 12,
+  "time": 0.078
+ },
+ {
+  "out": "i3_12_crown-dusk_98.jpg",
+  "shot": 12,
+  "time": 3.822
+ },
+ {
+  "out": "i3_13_pier_2.jpg",
+  "shot": 13,
+  "time": 0.039
+ },
+ {
+  "out": "i3_13_pier_98.jpg",
+  "shot": 13,
+  "time": 1.927
+ },
+ {
+  "out": "i3_14_roof-dusk_2.jpg",
+  "shot": 14,
+  "time": 0.058
+ },
+ {
+  "out": "i3_14_roof-dusk_98.jpg",
+  "shot": 14,
+  "time": 2.842
+ },
+ {
+  "out": "i3_15_lamps-on_2.jpg",
+  "shot": 15,
+  "time": 0.059
+ },
+ {
+  "out": "i3_15_lamps-on_98.jpg",
+  "shot": 15,
+  "time": 2.875
+ },
+ {
+  "out": "i3_16_ignite_2.jpg",
+  "shot": 16,
+  "time": 0.078
+ },
+ {
+  "out": "i3_16_ignite_98.jpg",
+  "shot": 16,
+  "time": 3.822
+ },
+ {
+  "out": "i3_17_windows_2.jpg",
+  "shot": 17,
+  "time": 0.039
+ },
+ {
+  "out": "i3_17_windows_98.jpg",
+  "shot": 17,
+  "time": 1.927
+ },
+ {
+  "out": "i3_18_tram-night_2.jpg",
+  "shot": 18,
+  "time": 0.039
+ },
+ {
+  "out": "i3_18_tram-night_98.jpg",
+  "shot": 18,
+  "time": 1.895
+ },
+ {
+  "out": "i3_19_barge-night_2.jpg",
+  "shot": 19,
+  "time": 0.039
+ },
+ {
+  "out": "i3_19_barge-night_98.jpg",
+  "shot": 19,
+  "time": 1.927
+ },
+ {
+  "out": "i3_20_roof-night_2.jpg",
+  "shot": 20,
+  "time": 0.039
+ },
+ {
+  "out": "i3_20_roof-night_98.jpg",
+  "shot": 20,
+  "time": 1.895
+ },
+ {
+  "out": "i3_21_aerial_2.jpg",
+  "shot": 21,
+  "time": 0.079
+ },
+ {
+  "out": "i3_21_aerial_98.jpg",
+  "shot": 21,
+  "time": 3.855
+ },
+ {
+  "out": "i3_22_final_2.jpg",
+  "shot": 22,
+  "time": 0.029
+ },
+ {
+  "out": "i3_22_final_98.jpg",
+  "shot": 22,
+  "time": 1.437
+ }
+]

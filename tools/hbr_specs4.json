@@ -1,0 +1,11 @@
+[
+ {"out":"hbr_31_canalW.jpg","elev":2.5,"cam":{"pos":[300,3.4,153],"target":[-600,6,153],"fov":35}},
+ {"out":"hbr_32_canalE.jpg","elev":6,"cam":{"pos":[-100,3.6,150],"target":[668,80,153],"fov":40}},
+ {"out":"hbr_33_bay.jpg","elev":7,"cam":{"pos":[-215,2.2,-190],"target":[-150,5,-140],"fov":45}},
+ {"out":"hbr_34_pier.jpg","elev":1.5,"cam":{"pos":[-160,4.2,601],"target":[-600,5,560],"fov":35}},
+ {"out":"hbr_35_bridge.jpg","elev":8,"cam":{"pos":[-105,3.2,120],"target":[-135,4,153],"fov":40}},
+ {"out":"hbr_36_basin.jpg","elev":5,"cam":{"pos":[640,6,150],"target":[520,3,153],"fov":50}},
+ {"out":"hbr_37_stairs.jpg","elev":7,"cam":{"pos":[-86,2.6,148],"target":[-96,1.0,141],"fov":45}},
+ {"out":"hbr_38_canalblue.jpg","elev":-6,"cam":{"pos":[300,3.4,153],"target":[-600,6,153],"fov":35}},
+ {"out":"hbr_39_fish.jpg","elev":7,"cam":{"pos":[-143.5,4.0,470],"target":[-160,2.2,400],"fov":38}}
+]

@@ -1,0 +1,14 @@
+[
+ {"out":"rooftops_a_s07.jpg","shot":7,"time":1},
+ {"out":"rooftops_b_s14.jpg","shot":14,"time":1.5},
+ {"out":"rooftops_c_s20.jpg","shot":20,"time":1},
+ {"out":"rooftops_d_s12.jpg","shot":12,"time":2},
+ {"out":"rooftops_e_s21.jpg","shot":21,"time":2},
+ {"out":"rooftops_f_s02.jpg","shot":2,"time":2},
+ {"out":"rooftops_g_s22.jpg","shot":22,"time":0.5},
+ {"out":"rooftops_h_s03.jpg","shot":3,"time":1.5},
+ {"out":"rooftops_i_insp.jpg","cam":{"pos":[66,40,100],"target":[92,31.5,121],"fov":45},"elev":30},
+ {"out":"rooftops_j_wide.jpg","cam":{"pos":[10,52,50],"target":[100,25,125],"fov":40},"elev":30},
+ {"out":"rooftops_k_airzoom.jpg","cam":{"pos":[800,257,170],"target":[520,150,110],"fov":16},"elev":-5},
+ {"out":"rooftops_l_insp2.jpg","cam":{"pos":[34,37,98],"target":[62,21.5,76],"fov":45},"elev":30}
+]

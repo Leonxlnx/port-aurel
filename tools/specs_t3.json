@@ -1,0 +1,7 @@
+[
+ {"out":"t3_A_on.jpg","shot":15,"time":2.85,"cam":{"pos":[-70,2.2,149],"target":[-200,6,154],"fov":22}},
+ {"out":"t3_B_on.jpg","shot":15,"time":2.85,"cam":{"pos":[300,4.0,153],"target":[-600,7,153],"fov":11}},
+ {"out":"t3_C_on.jpg","shot":15,"time":2.85,"cam":{"pos":[200,3.2,151.5],"target":[-600,8,154],"fov":16}},
+ {"out":"t3_D_on.jpg","shot":15,"time":2.85,"cam":{"pos":[430,6.0,153],"target":[-600,4,153],"fov":8}},
+ {"out":"t3_E_on.jpg","shot":15,"time":2.85,"cam":{"pos":[20,2.0,150],"target":[-600,10,155],"fov":24}}
+]

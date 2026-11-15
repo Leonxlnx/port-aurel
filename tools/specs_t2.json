@@ -1,0 +1,10 @@
+[
+ {"out":"t2_first_a.jpg","shot":1,"time":0.0,"elev":3.4},
+ {"out":"t2_first_b.jpg","shot":1,"time":0.0,"elev":3.4,"set":{"dust":0.012}},
+ {"out":"t2_first_c.jpg","shot":1,"time":0.0,"elev":3.4,"set":{"dust":0.03,"shafts":1.5}},
+ {"out":"t2_first_d.jpg","shot":1,"time":0.0,"elev":2.6,"set":{"saturation":1.22}},
+ {"out":"t2_aerial_a.jpg","shot":21,"time":2,"elev":-5.0,"ev":0.3,"set":{"nightGlow":[0.04,0.03,0.022],"cityLightGain":3}},
+ {"out":"t2_aerial_b.jpg","shot":21,"time":0.2,"elev":-5.0,"ev":0.5,"set":{"nightGlow":[0.04,0.03,0.022],"cityLightGain":6}},
+ {"out":"t2_station.jpg","shot":5,"time":1,"cam":{"pos":[-22,3.2,112],"target":[40,14.5,92],"fov":40}},
+ {"out":"t2_roofdusk.jpg","shot":14,"time":1.5,"ev":-0.9,"night":0.2}
+]

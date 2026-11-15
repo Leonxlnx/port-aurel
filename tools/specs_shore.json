@@ -1,0 +1,11 @@
+[
+ {"out":"shore_a_s12.jpg","shot":12,"time":2},
+ {"out":"shore_b_s06.jpg","shot":6,"time":1},
+ {"out":"shore_c_s09.jpg","shot":9,"time":1},
+ {"out":"shore_d_s13.jpg","shot":13,"time":1},
+ {"out":"shore_e_s15.jpg","shot":15,"time":2.8},
+ {"out":"shore_f_s21.jpg","shot":21,"time":2},
+ {"out":"shore_g_s01.jpg","shot":1,"time":0},
+ {"out":"shore_h_s11.jpg","shot":11,"time":2},
+ {"out":"shore_i_gold.jpg","cam":{"pos":[-300,40,300],"target":[-2500,60,-400],"fov":12},"elev":8}
+]

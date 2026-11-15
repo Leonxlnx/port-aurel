@@ -1,0 +1,52 @@
+[
+ {
+  "out": "f01_glitter.jpg",
+  "shot": 1,
+  "time": 0.967
+ },
+ {
+  "out": "f05_station.jpg",
+  "shot": 5,
+  "time": 0.967
+ },
+ {
+  "out": "f06_rooftops.jpg",
+  "shot": 6,
+  "time": 0.983
+ },
+ {
+  "out": "f11_sun.jpg",
+  "shot": 11,
+  "time": 1.95
+ },
+ {
+  "out": "f12_crown-dusk.jpg",
+  "shot": 12,
+  "time": 1.95
+ },
+ {
+  "out": "f13_pier.jpg",
+  "shot": 13,
+  "time": 0.983
+ },
+ {
+  "out": "f14_roof-dusk.jpg",
+  "shot": 14,
+  "time": 1.45
+ },
+ {
+  "out": "f17_windows.jpg",
+  "shot": 17,
+  "time": 0.983
+ },
+ {
+  "out": "f19_barge-night.jpg",
+  "shot": 19,
+  "time": 0.983
+ },
+ {
+  "out": "f22_final.jpg",
+  "shot": 22,
+  "time": 0.733
+ }
+]

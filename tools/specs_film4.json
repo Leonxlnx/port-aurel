@@ -1,0 +1,32 @@
+[
+ {
+  "out": "h01_tram-inside_2.jpg",
+  "shot": 1,
+  "time": 0.078
+ },
+ {
+  "out": "h01_tram-inside_50.jpg",
+  "shot": 1,
+  "time": 1.95
+ },
+ {
+  "out": "h01_tram-inside_98.jpg",
+  "shot": 1,
+  "time": 3.822
+ },
+ {
+  "out": "h06_jetty_2.jpg",
+  "shot": 6,
+  "time": 0.039
+ },
+ {
+  "out": "h06_jetty_50.jpg",
+  "shot": 6,
+  "time": 0.967
+ },
+ {
+  "out": "h06_jetty_98.jpg",
+  "shot": 6,
+  "time": 1.895
+ }
+]

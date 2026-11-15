@@ -1,0 +1,14 @@
+import * as THREE from 'three';
+import { makeMaterial, makeShaderMaterial } from '../src/engine/materials.js';
+import { LAYOUT, mulberry32, hashStr, GROUND_Y } from '../src/world/layout.js';
+const mod = await import('../src/world/transit.js');
+let nl = 0;
+const ctx = { layout: LAYOUT, THREE, GROUND_Y, makeMaterial, makeShaderMaterial, rng: n => mulberry32(hashStr(String(n))), lights: { add() { nl++; } }, params: new URLSearchParams(), modules: {} };
+const res = await mod.build(ctx);
+let tris = 0, calls = 0, bad = 0;
+res.group.traverse(o => { if (o.isMesh) { calls++; const n = o.geometry.attributes.position.count / 3 * (o.isInstancedMesh ? o.count : 1); tris += n;
+  const p = o.geometry.attributes.position.array; for (let i = 0; i < p.length; i++) if (!Number.isFinite(p[i])) bad++;
+  const nn = o.geometry.attributes.normal.array; for (let i = 0; i < nn.length; i++) if (!Number.isFinite(nn[i])) bad++;
+  console.log((o.name || o.parent.name || o.type).padEnd(12), o.isInstancedMesh ? 'x' + o.count : '', Math.round(n), o.geometry.boundingBox ? JSON.stringify(o.geometry.boundingBox.min.toArray().map(v => +v.toFixed(1))) + JSON.stringify(o.geometry.boundingBox.max.toArray().map(v => +v.toFixed(1))) : ''); } });
+console.log('calls', calls, 'tris', Math.round(tris), 'bad', bad, 'lights', nl);
+console.log(JSON.stringify(mod.interiorView(14, {})), JSON.stringify(mod.stations[0]));

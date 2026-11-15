@@ -1,0 +1,20 @@
+[
+ {"out":"sky2_w8.jpg","t":20,"cam":{"pos":[-160,6,150],"target":[-1200,60,150],"fov":45},"elev":8},
+ {"out":"sky2_w3.jpg","t":20,"cam":{"pos":[-160,6,150],"target":[-1200,60,150],"fov":45},"elev":3},
+ {"out":"sky2_w1.5.jpg","t":20,"cam":{"pos":[-160,6,150],"target":[-1200,60,150],"fov":45},"elev":1.5},
+ {"out":"sky2_wm2.jpg","t":20,"cam":{"pos":[-160,6,150],"target":[-1200,60,150],"fov":45},"elev":-2},
+ {"out":"sky2_wm4.jpg","t":20,"cam":{"pos":[-160,6,150],"target":[-1200,60,150],"fov":45},"elev":-4},
+ {"out":"sky2_wm6.jpg","t":20,"cam":{"pos":[-160,6,150],"target":[-1200,60,150],"fov":45},"elev":-6},
+ {"out":"sky2_e8.jpg","t":20,"cam":{"pos":[-400,10,300],"target":[600,160,100],"fov":45},"elev":8},
+ {"out":"sky2_e3.jpg","t":20,"cam":{"pos":[-400,10,300],"target":[600,160,100],"fov":45},"elev":3},
+ {"out":"sky2_e1.5.jpg","t":20,"cam":{"pos":[-400,10,300],"target":[600,160,100],"fov":45},"elev":1.5},
+ {"out":"sky2_em2.jpg","t":20,"cam":{"pos":[-400,10,300],"target":[600,160,100],"fov":45},"elev":-2},
+ {"out":"sky2_em4.jpg","t":20,"cam":{"pos":[-400,10,300],"target":[600,160,100],"fov":45},"elev":-4,"night":1},
+ {"out":"sky2_em6.jpg","t":20,"cam":{"pos":[-400,10,300],"target":[600,160,100],"fov":45},"elev":-6,"night":1},
+ {"out":"sky2_wide8.jpg","t":20,"cam":{"pos":[-400,10,300],"target":[600,260,100],"fov":65},"elev":8,"sky":{"coverage":0.32,"east":0.1}},
+ {"out":"sky2_tele.jpg","t":20,"cam":{"pos":[-140,5,169],"target":[-1180,20.5,161],"fov":6},"elev":0.6},
+ {"out":"sky2_t0.jpg","t":0,"cam":{"pos":[-400,10,300],"target":[600,200,100],"fov":45},"elev":3,"sky":{"coverage":0.36,"east":0.1}},
+ {"out":"sky2_t2.jpg","t":2,"cam":{"pos":[-400,10,300],"target":[600,200,100],"fov":45},"elev":3,"sky":{"coverage":0.36,"east":0.1}},
+ {"out":"sky2_t4.jpg","t":4,"cam":{"pos":[-400,10,300],"target":[600,200,100],"fov":45},"elev":3,"sky":{"coverage":0.36,"east":0.1}},
+ {"out":"sky2_fw8.jpg","t":20,"cam":{"pos":[-160,6,150],"target":[-1200,60,150],"fov":45},"elev":8,"sky":{"coverage":0.34,"east":0.14,"cumulus":0.4}}
+]

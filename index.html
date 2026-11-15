@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="data:,">
+<title>Port Aurel — a procedural film city</title>
+<style>
+  html, body { margin: 0; height: 100%; background: #050506; color: #e9e4da; font: 13px/1.4 ui-sans-serif, system-ui, "Segoe UI", sans-serif; overflow: hidden; }
+  #c { position: fixed; inset: 0; width: 100vw; height: 100vh; display: block; object-fit: contain; }
+  body.capture #c { position: static; width: auto; height: auto; }
+  #ui { position: fixed; left: 14px; bottom: 14px; display: flex; gap: 10px; align-items: center; flex-wrap: wrap; max-width: calc(100vw - 28px);
+        padding: 9px 12px; background: rgba(10, 10, 12, .55); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, .08); border-radius: 10px; user-select: none; }
+  #ui label { opacity: .75; }
+  #ui input[type=range] { width: 170px; accent-color: #ffb36b; }
+  #ui button, #ui select { background: rgba(255, 255, 255, .08); color: inherit; border: 1px solid rgba(255, 255, 255, .12); border-radius: 7px; padding: 5px 10px; font: inherit; cursor: pointer; }
+  #ui button:hover { background: rgba(255, 255, 255, .16); }
+  #hint { position: fixed; right: 14px; top: 12px; opacity: .55; text-align: right; pointer-events: none; text-shadow: 0 1px 2px #000; }
+  #load { position: fixed; inset: 0; display: grid; place-items: center; background: #050506; font-size: 15px; letter-spacing: .08em; transition: opacity .6s; }
+  body.capture #ui, body.capture #hint, body.capture #load { display: none; }
+</style>
+<script type="importmap">
+{ "imports": { "three": "./node_modules/three/build/three.module.js", "three/addons/": "./node_modules/three/examples/jsm/" } }
+</script>
+</head>
+<body>
+<canvas id="c"></canvas>
+<div id="load">building the city…</div>
+<div id="hint"></div>
+<div id="ui"></div>
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>

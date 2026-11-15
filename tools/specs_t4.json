@@ -1,0 +1,5 @@
+[
+ {"out":"t4_A_off.jpg","shot":15,"time":0.1,"exposure":0.70,"cam":{"pos":[-70,2.2,149],"target":[-200,6,154],"fov":22}},
+ {"out":"t4_A_mid.jpg","shot":15,"time":1.2,"exposure":0.70,"cam":{"pos":[-71.5,2.25,149.1],"target":[-200,6,154],"fov":22}},
+ {"out":"t4_A_on.jpg","shot":15,"time":2.85,"exposure":0.70,"cam":{"pos":[-74,2.3,149.3],"target":[-200,6,154],"fov":22}}
+]

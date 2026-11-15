@@ -1,0 +1,13 @@
+[
+ {"out":"veg_quay.jpg","cam":{"pos":[-232,1.9,300],"target":[-136,11.4,238],"fov":40},"elev":7},
+ {"out":"veg_henge.jpg","cam":{"pos":[560,4.05,-22],"target":[-200,8,-22],"fov":45},"elev":3},
+ {"out":"veg_tele.jpg","cam":{"pos":[344,7,-10],"target":[344,4.2,-600],"fov":10.5},"elev":-4.4,"night":0.86},
+ {"out":"veg_towerup.jpg","cam":{"pos":[452,3.2,136.2],"target":[668,96,153],"fov":47},"elev":6.2},
+ {"out":"veg_treeF.jpg","cam":{"pos":[527.5,4,-28.5],"target":[534,7.2,-23.9],"fov":58},"elev":7},
+ {"out":"veg_treeB.jpg","cam":{"pos":[541.5,3.7,-28.2],"target":[534,7.4,-23.9],"fov":58},"elev":2},
+ {"out":"veg_car.jpg","cam":{"pos":[517.2,4,-31.6],"target":[512.6,3,-26.2],"fov":42},"elev":7},
+ {"out":"veg_carN.jpg","cam":{"pos":[517.2,4,-31.6],"target":[512.6,3,-26.2],"fov":42},"elev":-7,"night":1},
+ {"out":"veg_car2.jpg","cam":{"pos":[526.2,3.7,-30.6],"target":[521.5,3,-35.8],"fov":50},"elev":3},
+ {"out":"veg_prom.jpg","cam":{"pos":[-146,4.1,40],"target":[-133,4.6,-20],"fov":50},"elev":12},
+ {"out":"veg_street.jpg","cam":{"pos":[351.5,4.05,-45],"target":[346,10,-400],"fov":40},"elev":10}
+]

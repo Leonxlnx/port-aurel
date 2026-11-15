@@ -1,0 +1,15 @@
+[
+ {"out":"t1_first.jpg","shot":1,"time":0.0},
+ {"out":"t1_last1.jpg","shot":1,"time":3.85},
+ {"out":"t1_roofdusk_a.jpg","shot":14,"time":1.5,"ev":-1.0,"night":0.15},
+ {"out":"t1_roofdusk_b.jpg","shot":14,"time":1.5,"ev":-0.5,"night":0.3,"elev":-4.2},
+ {"out":"t1_crown_a.jpg","shot":12,"time":2,"ev":0.6},
+ {"out":"t1_pier_a.jpg","shot":13,"time":1,"ev":0.4,"cam":{"pos":[-161,5.8,601],"target":[-600,8,560]}},
+ {"out":"t1_aerial_a.jpg","shot":21,"time":2,"elev":-5.4,"set":{"nightGlow":[0.03,0.022,0.016]}},
+ {"out":"t1_aerial_b.jpg","shot":21,"time":2,"elev":-4.8,"ev":0.3,"set":{"nightGlow":[0.05,0.036,0.026],"fogDensity":0.0003}},
+ {"out":"t1_lamps0.jpg","shot":15,"time":0.1},
+ {"out":"t1_lamps1.jpg","shot":15,"time":1.2},
+ {"out":"t1_station_a.jpg","shot":5,"time":1,"cam":{"pos":[-22,3.2,112],"target":[40,11.6,92],"fov":40}},
+ {"out":"t1_station_b.jpg","shot":5,"time":1,"cam":{"pos":[-10,2.6,127],"target":[40,12,95],"fov":38}},
+ {"out":"t1_station_c.jpg","shot":5,"time":1,"cam":{"pos":[-32,6,100],"target":[40,11,92],"fov":35}}
+]

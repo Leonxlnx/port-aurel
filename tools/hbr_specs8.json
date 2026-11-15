@@ -1,0 +1,8 @@
+[
+ {"out":"hbr_71_aerW.jpg","elev":25,"cam":{"pos":[-50,42,212],"target":[-65,0,153],"fov":55}},
+ {"out":"hbr_72_aerM.jpg","elev":25,"cam":{"pos":[200,38,203],"target":[200,0,153],"fov":55}},
+ {"out":"hbr_73_aerJet.jpg","elev":25,"cam":{"pos":[-236,36,-128],"target":[-172,0,-182],"fov":50}},
+ {"out":"hbr_74_aerPier.jpg","elev":25,"cam":{"pos":[-236,48,676],"target":[-236,0,602],"fov":55}},
+ {"out":"hbr_75_aerFish.jpg","elev":25,"cam":{"pos":[-186,26,446],"target":[-149,1,440],"fov":55}},
+ {"out":"hbr_76_aerBasin.jpg","elev":25,"cam":{"pos":[565,75,236],"target":[565,0,153],"fov":50}}
+]

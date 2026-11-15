@@ -1,0 +1,16 @@
+[
+ {"out":"bld2_quay.jpg","cam":{"pos":[-232,1.9,300],"target":[-136,11.4,238],"fov":40},"elev":7},
+ {"out":"bld2_quaytele.jpg","cam":{"pos":[-232,1.9,300],"target":[-136,12,238],"fov":13.5},"elev":7},
+ {"out":"bld2_quayclose.jpg","cam":{"pos":[-150,4,222],"target":[-120,9,233],"fov":45},"elev":7},
+ {"out":"bld2_fireesc.jpg","cam":{"pos":[-132.7,5.6,-772.3],"target":[-119.7,11.4,-765.3],"fov":50},"elev":7},
+ {"out":"bld2_lantern.jpg","cam":{"pos":[452,3.2,136.2],"target":[668,96,153],"fov":47},"elev":6.2},
+ {"out":"bld2_canyon.jpg","cam":{"pos":[351.5,4.05,-45],"target":[346,10,-400],"fov":40},"elev":10},
+ {"out":"bld2_skyline.jpg","cam":{"pos":[-700,6,500],"target":[500,60,100],"fov":32},"elev":7.5,"sky":{"coverage":0.3,"east":0.08}},
+ {"out":"bld2_skytele.jpg","cam":{"pos":[-700,6,500],"target":[520,95,60],"fov":10.7},"elev":7.5,"sky":{"coverage":0.3,"east":0.08}},
+ {"out":"bld2_roofs.jpg","cam":{"pos":[81.6,33.4,116.5],"target":[668,150,153],"fov":40},"elev":6},
+ {"out":"bld2_quaynight.jpg","cam":{"pos":[-232,1.9,300],"target":[-136,11.4,238],"fov":40},"elev":-6.2,"night":1},
+ {"out":"bld2_roofsnight.jpg","cam":{"pos":[104,33.4,125.4],"target":[668,150,153],"fov":30},"elev":-6.4,"night":1},
+ {"out":"bld2_quayteleN.jpg","cam":{"pos":[-232,1.9,300],"target":[-136,12,238],"fov":13.5},"elev":-6.2,"night":1},
+ {"out":"bld2_neonN.jpg","cam":{"pos":[-70.8,6.6,-791],"target":[-97.1,8.5,-785.5],"fov":50},"elev":-6.2,"night":1},
+ {"out":"bld2_clock.jpg","cam":{"pos":[-126.6,6,202.6],"target":[-120.1,8.9,196.6],"fov":42},"elev":7}
+]

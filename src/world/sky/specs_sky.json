@@ -1,0 +1,20 @@
+[
+ {"out":"sky_ref_w10.jpg","elev":10,"cam":{"pos":[-160,6,150],"target":[-1200,60,150],"fov":45}},
+ {"out":"sky_ref_w4.jpg","elev":4,"cam":{"pos":[-160,6,150],"target":[-1200,60,150],"fov":45}},
+ {"out":"sky_ref_w1.5.jpg","elev":1.5,"cam":{"pos":[-160,6,150],"target":[-1200,60,150],"fov":45}},
+ {"out":"sky_ref_w-2.jpg","elev":-2,"cam":{"pos":[-160,6,150],"target":[-1200,60,150],"fov":45}},
+ {"out":"sky_ref_w-5.jpg","elev":-5,"cam":{"pos":[-160,6,150],"target":[-1200,60,150],"fov":45}},
+ {"out":"sky_ref_w-9.jpg","elev":-9,"cam":{"pos":[-160,6,150],"target":[-1200,60,150],"fov":45}},
+ {"out":"sky_ref_e10.jpg","elev":10,"cam":{"pos":[-400,10,300],"target":[600,160,100],"fov":45}},
+ {"out":"sky_ref_e4.jpg","elev":4,"cam":{"pos":[-400,10,300],"target":[600,160,100],"fov":45}},
+ {"out":"sky_ref_e1.5.jpg","elev":1.5,"cam":{"pos":[-400,10,300],"target":[600,160,100],"fov":45}},
+ {"out":"sky_ref_e-2.jpg","elev":-2,"cam":{"pos":[-400,10,300],"target":[600,160,100],"fov":45}},
+ {"out":"sky_ref_e-5.jpg","elev":-5,"cam":{"pos":[-400,10,300],"target":[600,160,100],"fov":45}},
+ {"out":"sky_ref_e-9.jpg","elev":-9,"cam":{"pos":[-400,10,300],"target":[600,160,100],"fov":45}},
+ {"out":"sky_ref_up8.jpg","elev":8,"cam":{"pos":[300,5,0],"target":[320,300,-40],"fov":60}},
+ {"out":"sky_ref_tele.jpg","elev":0.6,"cam":{"pos":[-150,5,153],"target":[-1200,8,153],"fov":8}},
+ {"out":"sky_ref_w70.jpg","elev":2,"cam":{"pos":[-160,6,150],"target":[-1200,60,150],"fov":70}},
+ {"out":"sky_ref_e4_t0.jpg","elev":4,"t":0,"cam":{"pos":[-400,10,300],"target":[600,160,100],"fov":45}},
+ {"out":"sky_ref_e4_t4.jpg","elev":4,"t":4,"cam":{"pos":[-400,10,300],"target":[600,160,100],"fov":45}},
+ {"out":"sky_ref_e4_t8.jpg","elev":4,"t":8,"cam":{"pos":[-400,10,300],"target":[600,160,100],"fov":45}}
+]

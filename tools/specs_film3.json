@@ -1,0 +1,52 @@
+[
+ {
+  "out": "g01_tram-inside_2.jpg",
+  "shot": 1,
+  "time": 0.078
+ },
+ {
+  "out": "g01_tram-inside_98.jpg",
+  "shot": 1,
+  "time": 3.822
+ },
+ {
+  "out": "g06_glitter_2.jpg",
+  "shot": 6,
+  "time": 0.039
+ },
+ {
+  "out": "g06_glitter_98.jpg",
+  "shot": 6,
+  "time": 1.895
+ },
+ {
+  "out": "g07_rooftops_2.jpg",
+  "shot": 7,
+  "time": 0.039
+ },
+ {
+  "out": "g07_rooftops_98.jpg",
+  "shot": 7,
+  "time": 1.927
+ },
+ {
+  "out": "g12_crown-dusk_2.jpg",
+  "shot": 12,
+  "time": 0.078
+ },
+ {
+  "out": "g12_crown-dusk_98.jpg",
+  "shot": 12,
+  "time": 3.822
+ },
+ {
+  "out": "g17_windows_2.jpg",
+  "shot": 17,
+  "time": 0.039
+ },
+ {
+  "out": "g17_windows_98.jpg",
+  "shot": 17,
+  "time": 1.927
+ }
+]

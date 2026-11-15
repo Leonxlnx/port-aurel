@@ -1,0 +1,112 @@
+[
+ {
+  "out": "i4_01_tram-inside.jpg",
+  "shot": 1,
+  "time": 1.95
+ },
+ {
+  "out": "i4_02_skyline.jpg",
+  "shot": 2,
+  "time": 1.95
+ },
+ {
+  "out": "i4_03_quay.jpg",
+  "shot": 3,
+  "time": 1.45
+ },
+ {
+  "out": "i4_04_tower-up.jpg",
+  "shot": 4,
+  "time": 1.467
+ },
+ {
+  "out": "i4_05_station.jpg",
+  "shot": 5,
+  "time": 0.983
+ },
+ {
+  "out": "i4_06_jetty.jpg",
+  "shot": 6,
+  "time": 0.967
+ },
+ {
+  "out": "i4_07_rooftops.jpg",
+  "shot": 7,
+  "time": 0.983
+ },
+ {
+  "out": "i4_08_henge.jpg",
+  "shot": 8,
+  "time": 1.95
+ },
+ {
+  "out": "i4_09_promenade.jpg",
+  "shot": 9,
+  "time": 0.967
+ },
+ {
+  "out": "i4_10_arch.jpg",
+  "shot": 10,
+  "time": 0.983
+ },
+ {
+  "out": "i4_11_sun.jpg",
+  "shot": 11,
+  "time": 1.95
+ },
+ {
+  "out": "i4_12_crown-dusk.jpg",
+  "shot": 12,
+  "time": 1.95
+ },
+ {
+  "out": "i4_13_pier.jpg",
+  "shot": 13,
+  "time": 0.983
+ },
+ {
+  "out": "i4_14_roof-dusk.jpg",
+  "shot": 14,
+  "time": 1.45
+ },
+ {
+  "out": "i4_15_lamps-on.jpg",
+  "shot": 15,
+  "time": 1.467
+ },
+ {
+  "out": "i4_16_ignite.jpg",
+  "shot": 16,
+  "time": 1.95
+ },
+ {
+  "out": "i4_17_windows.jpg",
+  "shot": 17,
+  "time": 0.983
+ },
+ {
+  "out": "i4_18_tram-night.jpg",
+  "shot": 18,
+  "time": 0.967
+ },
+ {
+  "out": "i4_19_barge-night.jpg",
+  "shot": 19,
+  "time": 0.983
+ },
+ {
+  "out": "i4_20_roof-night.jpg",
+  "shot": 20,
+  "time": 0.967
+ },
+ {
+  "out": "i4_21_aerial.jpg",
+  "shot": 21,
+  "time": 1.967
+ },
+ {
+  "out": "i4_22_final.jpg",
+  "shot": 22,
+  "time": 0.733
+ }
+]

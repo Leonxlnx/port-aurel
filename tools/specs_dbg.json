@@ -1,0 +1,4 @@
+[
+ {"out":"dbg_shadow_on.jpg","elev":30,"az":205,"cam":{"pos":[-420,60,-300],"target":[0,40,0],"fov":40}},
+ {"out":"dbg_shadow_off.jpg","elev":30,"az":205,"cam":{"pos":[-420,60,-300],"target":[0,40,0],"fov":40},"set":{"shadows":false}}
+]

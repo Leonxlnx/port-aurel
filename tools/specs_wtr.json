@@ -1,0 +1,16 @@
+[
+ {"out":"wtr_r5_a02.jpg","shot":2,"time":2},
+ {"out":"wtr_r5_b03.jpg","shot":3,"time":1.5},
+ {"out":"wtr_r5_c06.jpg","shot":6,"time":1},
+ {"out":"wtr_r5_d08.jpg","shot":8,"time":2},
+ {"out":"wtr_r5_e10.jpg","shot":10,"time":1},
+ {"out":"wtr_r5_f11.jpg","shot":11,"time":2},
+ {"out":"wtr_r5_g16.jpg","shot":16,"time":2},
+ {"out":"wtr_r5_h19.jpg","shot":19,"time":1},
+ {"out":"wtr_r5_i22.jpg","shot":22,"time":0.5},
+ {"out":"wtr_r5_j13.jpg","shot":13,"time":1},
+ {"out":"wtr_r5_k06m.jpg","shot":6,"time":1.1},
+ {"out":"wtr_r5_x03.jpg","shot":3,"time":1.5,"w":2560,"h":1440},
+ {"out":"wtr_r5_x03m.jpg","shot":3,"time":1.6,"w":2560,"h":1440},
+ {"out":"wtr_r5_x16.jpg","shot":16,"time":2,"w":2560,"h":1440}
+]

@@ -1,0 +1,8 @@
+node_modules/
+out/
+refs/
+.claude/
+assets/audio/music/
+assets/audio/sfx/
+assets/audio/analysis/
+*.log

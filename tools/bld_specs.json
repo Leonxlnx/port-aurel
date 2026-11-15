@@ -1,0 +1,10 @@
+[
+ {"out":"bld_best_quay.jpg","cam":{"pos":[-250,5,318],"target":[-140,13,250],"fov":40},"elev":5},
+ {"out":"bld_best_shutters.jpg","cam":{"pos":[-150,4,222],"target":[-120,9,233],"fov":45},"elev":7},
+ {"out":"bld_best_warehouses.jpg","cam":{"pos":[-162,3.6,-22],"target":[-120,9,-52],"fov":50},"elev":7},
+ {"out":"bld_best_canal.jpg","cam":{"pos":[-60,5,153],"target":[668,90,153],"fov":40},"elev":5},
+ {"out":"bld_best_towers.jpg","cam":{"pos":[480,30,232],"target":[563,70,233],"fov":45},"elev":9},
+ {"out":"bld_best_lantern_night.jpg","cam":{"pos":[560,6,153],"target":[668,95,153],"fov":55},"elev":-8},
+ {"out":"bld_best_blue.jpg","cam":{"pos":[-700,12,500],"target":[500,70,100],"fov":32},"elev":-6},
+ {"out":"bld_best_oldtown.jpg","cam":{"pos":[150,46,-120],"target":[20,14,40],"fov":40},"elev":8}
+]

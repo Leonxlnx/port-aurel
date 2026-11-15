@@ -1,0 +1,8 @@
+[
+ {"out":"lk2_street_e10.jpg","cam":{"pos":[351.5,4.05,-45],"target":[346,10,-400],"fov":40},"elev":10,"sky":{"coverage":0.3,"east":0.1}},
+ {"out":"lk2_henge_e3.jpg","cam":{"pos":[560,4.05,-22],"target":[-200,8,-22],"fov":45},"elev":3,"sky":{"coverage":0.3,"east":0.1}},
+ {"out":"lk2_henge_e3_grade.jpg","cam":{"pos":[560,4.05,-22],"target":[-200,8,-22],"fov":45},"elev":3,"sky":{"coverage":0.3,"east":0.1},"set":{"contrast":1.38,"saturation":1.12,"fade":0.0,"dust":0.003,"halation":0.9,"bloom":0.09,"lift":[0.006,0.007,0.010]}},
+ {"out":"lk2_skyline_e8.jpg","cam":{"pos":[-700,6,500],"target":[500,60,100],"fov":32},"elev":8,"sky":{"coverage":0.3,"east":0.1}},
+ {"out":"lk2_skyline_e8_grade.jpg","cam":{"pos":[-700,6,500],"target":[500,60,100],"fov":32},"elev":8,"sky":{"coverage":0.22,"east":0.0,"cumulus":0.3},"set":{"contrast":1.38,"saturation":1.12,"fade":0.0,"halation":0.9,"bloom":0.09,"lift":[0.006,0.007,0.010]},"atm":{"mieScale":4.5}},
+ {"out":"lk2_quay_e5.jpg","cam":{"pos":[-250,5,318],"target":[-140,13,250],"fov":40},"elev":5,"sky":{"coverage":0.3,"east":0.1},"set":{"contrast":1.38,"saturation":1.12,"fade":0.0,"halation":0.9,"bloom":0.09,"lift":[0.006,0.007,0.010]}}
+]

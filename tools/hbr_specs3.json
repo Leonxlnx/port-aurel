@@ -1,0 +1,11 @@
+[
+ {"out":"hbr_21_stone.jpg","elev":7,"cam":{"pos":[-70,1.3,151],"target":[-30,1.2,141],"fov":40}},
+ {"out":"hbr_22_wall.jpg","elev":9,"cam":{"pos":[121,1.3,150],"target":[104,1.3,140],"fov":45}},
+ {"out":"hbr_23_fishdock.jpg","elev":7,"cam":{"pos":[-146,3.9,372],"target":[-150.8,1.5,396],"fov":45}},
+ {"out":"hbr_24_clutter.jpg","elev":7,"cam":{"pos":[-143.6,3.7,455],"target":[-148.2,2.7,463],"fov":45}},
+ {"out":"hbr_25_pierwater.jpg","elev":5,"cam":{"pos":[-216,1.2,623],"target":[-242,2.0,604],"fov":45}},
+ {"out":"hbr_26_basinboats.jpg","elev":7,"cam":{"pos":[577,1.7,146],"target":[560,1.4,116],"fov":45}},
+ {"out":"hbr_27_iron.jpg","elev":10,"cam":{"pos":[214,1.6,147],"target":[240,2.3,154],"fov":45}},
+ {"out":"hbr_28_baynight.jpg","elev":-8,"cam":{"pos":[-215,2.2,-190],"target":[-150,5,-140],"fov":45}},
+ {"out":"hbr_29_piernight.jpg","elev":-6,"cam":{"pos":[-160,4.2,601],"target":[-600,5,560],"fov":35}}
+]
